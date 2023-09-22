@@ -1,8 +1,6 @@
 <?php
 
-echo "Salut !"
-
-
-
+echo "Salut !";
+echo "Tu vas bien?";
 
 ?>
